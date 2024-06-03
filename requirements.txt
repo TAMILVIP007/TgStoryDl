@@ -1,0 +1,4 @@
+sqlalchemy[asyncio]
+telethon
+python-dotenv
+aiosqlite
